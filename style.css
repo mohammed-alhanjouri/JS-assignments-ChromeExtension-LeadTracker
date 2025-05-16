@@ -23,6 +23,11 @@ body {
     font-weight: bold;
 }
 
+#input-btn:hover{
+    background-color: #4e7c34;
+    transition: background-color 0.3s;
+}
+
 #ul-el{
     list-style: none;
     padding: 0;
